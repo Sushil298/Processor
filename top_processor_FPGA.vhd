@@ -156,8 +156,6 @@ signal clk_proc : STD_LOGIC;
 -- display controller
 signal rst_disp : STD_LOGIC;
 
--- TODO add other internal signals as needed
-
 begin
 
 -- simple hardwired logic
